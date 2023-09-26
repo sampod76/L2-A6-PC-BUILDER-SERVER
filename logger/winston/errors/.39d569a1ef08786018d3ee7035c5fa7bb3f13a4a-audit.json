@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "C:\\Users\\abir\\Desktop\\assernemt-6\\L2-A2-PC-BUILD-BACKEND\\logger\\winston\\errors\\.39d569a1ef08786018d3ee7035c5fa7bb3f13a4a-audit.json",
+    "files": [
+        {
+            "date": 1695749185952,
+            "name": "C:\\Users\\abir\\Desktop\\assernemt-6\\L2-A2-PC-BUILD-BACKEND\\logger\\winston\\errors\\PHU-2023-09-26-23-error.log",
+            "hash": "2c64c8cf6665db23460a12cd4101fc2c58ec1f94c5d78271fea64ad2e1600c03"
+        }
+    ],
+    "hashType": "sha256"
+}

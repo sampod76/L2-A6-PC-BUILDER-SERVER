@@ -3,7 +3,7 @@ import { ErrorRequestHandler } from 'express';
 // import { errorLogger } from '../share/logger'
 // import { logger } from '../share/logger'
 import { ZodError } from 'zod';
-import config from '../../config';
+
 import ApiError from '../errors/ApiError';
 import { handleValidationError } from '../errors/handleValidationError';
 import handleZodError from '../errors/handleZodError';
@@ -12,6 +12,7 @@ import { IGenericErrorMessage } from '../interface/error';
 import httpStatus from 'http-status';
 import handleCastError from '../errors/handleCastError';
 import { errorLogger } from '../share/logger';
+import config from '../config';
 // import path from 'path';
 
 //
